@@ -1,0 +1,3 @@
+Upstream: https://github.com/browser-use/browser-use
+Revision: ccbdb8095fbaf903c748880a600054a34c7b6191
+Original tree: e27c092209bca96b91a14a1f295dc133b222b00e

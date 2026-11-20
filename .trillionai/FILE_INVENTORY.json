@@ -1,0 +1,33 @@
+{
+  "upstream": "https://github.com/browser-use/browser-use",
+  "upstream_commit": "ccbdb8095fbaf903c748880a600054a34c7b6191",
+  "upstream_tree": "e27c092209bca96b91a14a1f295dc133b222b00e",
+  "upstream_tracked_entries": 144,
+  "upstream_blob_files": 144,
+  "expected_source_files": 126,
+  "verified_source_files": 126,
+  "excluded_paths": {
+    ".github/workflows/claude.yml": "upstream workflow disabled",
+    ".github/workflows/docker.yml": "upstream workflow disabled",
+    ".github/workflows/install-script.yml": "upstream workflow disabled",
+    ".github/workflows/lint.yml": "upstream workflow disabled",
+    ".github/workflows/package.yaml": "upstream workflow disabled",
+    ".github/workflows/publish.yml": "upstream workflow disabled",
+    ".github/workflows/stale-bot.yml": "upstream workflow disabled",
+    ".github/workflows/test.yaml": "upstream workflow disabled",
+    "static/NiceHack69.png": "asset pending separate redistribution rights review",
+    "static/accuracy_by_model_dark.png": "asset pending separate redistribution rights review",
+    "static/accuracy_by_model_light.png": "asset pending separate redistribution rights review",
+    "static/browser-use-dark.png": "asset pending separate redistribution rights review",
+    "static/browser-use.png": "asset pending separate redistribution rights review",
+    "static/hard_benchmark_v2.jpg": "asset pending separate redistribution rights review",
+    "static/readme/which-product-dark-mobile.svg": "asset pending separate redistribution rights review",
+    "static/readme/which-product-dark.svg": "asset pending separate redistribution rights review",
+    "static/readme/which-product-light-mobile.svg": "asset pending separate redistribution rights review",
+    "static/readme/which-product-light.svg": "asset pending separate redistribution rights review"
+  },
+  "missing_paths": [],
+  "mismatched_paths": [],
+  "extra_paths": [],
+  "scope": "Tracked Git blobs only; no third-party submodule contents or history."
+}
